@@ -1,6 +1,6 @@
 # Foundations of Reinforcement Learning and Control: Connections and New Perspectives
 
-This is the official repository to the paper "Foundations of Reinforcement Learning and Control: Connections and New Perspectives" by Claire Vernade, Onno Eberhard, Martha White, Florian Dörfler, Csaba Szepesvári, Miroslav Krstic, and Michael Muehlebach (to be published in Informs Tutorials in Operations Research 2026).
+This is the official repository to the paper "Foundations of Reinforcement Learning and Control: Connections and New Perspectives" by Claire Vernade, Onno Eberhard, Martha White, Florian Dörfler, Csaba Szepesvári, Miroslav Krstic, and Michael Muehlebach (to be published in INFORMS Tutorials in Operations Research 2026).
 
 The contents are as follows.
 - `cheetah-0.xml` and `cheetah-1.xml` contain the MuJoCo specifications of the original Half-Cheetah and the modified low-friction Half-Cheetah, respectively. The file `cheetah-0.xml` is taken from the DeepMind Control Suite library.
